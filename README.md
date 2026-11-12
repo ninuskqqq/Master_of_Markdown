@@ -9,3 +9,5 @@ Když se klec otevře, někdo tě vytáhne, představí se ti a uklidní tě.
 V Labyrintu jste jen kluci, každý musí něco dělat, na příživníky není čas. Máš na výběr, ošetřovatel, zahradník, stavitel a různé další, ale pak tu je běžec.
 Role běžce je ta nejnebezpečnější.
 V Labyrintu jsou pravidla, kterých se musí každý držet
+### Pravidla Labyrintu
+ 
