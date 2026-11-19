@@ -13,3 +13,8 @@ Role běžce je ta nejnebezpečnější.
  * Nikdy nechoď do labyrintu bez povolení
  * Sleduj zvuky sirény, která značí uzavírání zdí
  * Dávej si pozor na bodnutí Rmuty
+
+### Kontrolní seznam před výpravou do Labrintu
+- [x] Zkontrolovat zásobu vody, mapovací pomůcky a zbraně
+- [ ] Zapamatovat si změny sekcí oproti včerejšku
+- [ ] Vrátit se zpět do placu před uzavřením labyrintu
